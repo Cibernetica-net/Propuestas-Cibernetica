@@ -12,4 +12,4 @@ Ventas  — Cibernetica
 ## Contacto
 📧 claudia@cibernetica.com
 📧 jhoel.fuentes@cibernetica.com
-🌐 www.cibernetica.com
+🌐 https://www.cibernetica.net/
